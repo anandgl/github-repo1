@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/godfreyanandan/Leslie-poc1/_apis/build/status/anandgl.github-repo1)](https://dev.azure.com/godfreyanandan/Leslie-poc1/_build/latest?definitionId=1)
+
 
 # Contributing
 
